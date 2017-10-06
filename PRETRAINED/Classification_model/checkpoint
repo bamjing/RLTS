@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/YJ/PycharmProjects/RLTrading/PRETRAINED/Classification_model/classifier-90D-5mins-CLV7-birch_clustering-256-labeled.csv"
+all_model_checkpoint_paths: "/Users/YJ/PycharmProjects/RLTrading/PRETRAINED/Classification_model/classifier-90D-5mins-CLV7-birch_clustering-256-labeled.csv"
